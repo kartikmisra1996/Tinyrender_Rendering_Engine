@@ -1,0 +1,8 @@
+﻿  renderer.cpp
+c:\users\karti\desktop\ecse446assignments\a3\src\bsdfs\diffuse.h(37): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\karti\desktop\ecse446assignments\a3\src\bsdfs\phong.h(71): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\karti\desktop\ecse446assignments\a3\src\integrators\normal.h(25): warning C4700: uninitialized local variable 'info' used
+  tinyrender.vcxproj -> C:\Users\karti\Desktop\ECSE446Assignments\a3\bin\Debug\tinyrender.exe
+  C:\Users\karti\Desktop\ECSE446Assignments\a3\externals\opengl\dll\glew32.dll
+  C:\Users\karti\Desktop\ECSE446Assignments\a3\externals\opengl\dll\SDL2.dll
+  2 fichier(s) copié(s)
