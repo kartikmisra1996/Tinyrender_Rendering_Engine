@@ -1,0 +1,8 @@
+﻿  renderer.cpp
+d:\universite\fall_2018\ecse_446\ecse446assignments\a1_starter\src\core\renderer.cpp(73): warning C4700: uninitialized local variable 'x' used
+d:\universite\fall_2018\ecse_446\ecse446assignments\a1_starter\src\core\renderer.cpp(78): warning C4700: uninitialized local variable 'y' used
+d:\universite\fall_2018\ecse_446\ecse446assignments\a1_starter\src\core\renderer.cpp(83): warning C4700: uninitialized local variable 'z' used
+  tinyrender.vcxproj -> D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a1_starter\bin\Release\tinyrender.exe
+  D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a1_starter\externals\opengl\dll\glew32.dll
+  D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a1_starter\externals\opengl\dll\SDL2.dll
+  2 fichier(s) copié(s)

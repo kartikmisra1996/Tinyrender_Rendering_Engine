@@ -1,0 +1,20 @@
+{
+  "firstlast": "Kartik Misra",
+  "id": 260663577,
+  "assignment": 1,
+  "course": 446,
+  "renders": [
+    { "scene": "Sphere (offline)",
+      "render": "renders/sphere_normal_offline.exr"
+    },
+    { "scene": "Dragon (offline)",
+      "render": "renders/dragon_normal_offline.exr"
+    },
+    { "scene": "Sphere (real-time)",
+      "render": "renders/sphere_normal_realtime.exr"
+    },
+    { "scene": "Dragon (real-time)",
+      "render": "renders/dragon_normal_realtime.exr"
+    }
+  ]
+}
