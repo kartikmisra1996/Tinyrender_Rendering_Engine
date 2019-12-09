@@ -1,0 +1,17 @@
+﻿  integrator.cpp
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\core\integrator.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  renderer.cpp
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\bsdfs\diffuse.h(37): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\bsdfs\phong.h(71): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\integrators\ao.h(37): warning C4101: 'shadow': unreferenced local variable
+  main.cpp
+  renderpass.cpp
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\bsdfs\diffuse.h(37): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\bsdfs\phong.h(71): warning C4804: '>': unsafe use of type 'bool' in operation
+  Generating Code...
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\integrators\normal.h(25): warning C4700: uninitialized local variable 'info' used
+c:\users\karti\desktop\ecse446assignments\a5_starter\a5\src\bsdfs\mixture.h(114): warning C4715: 'TinyRender::MixtureBSDF::sample': not all control paths return a value
+  tinyrender.vcxproj -> C:\Users\karti\Desktop\ECSE446Assignments\a5_starter\a5\bin\Debug\tinyrender.exe
+  C:\Users\karti\Desktop\ECSE446Assignments\a5_starter\a5\externals\opengl\dll\glew32.dll
+  C:\Users\karti\Desktop\ECSE446Assignments\a5_starter\a5\externals\opengl\dll\SDL2.dll
+  2 fichier(s) copié(s)

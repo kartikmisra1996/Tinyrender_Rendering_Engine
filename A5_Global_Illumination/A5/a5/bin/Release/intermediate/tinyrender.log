@@ -1,0 +1,15 @@
+﻿  integrator.cpp
+  renderer.cpp
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\bsdfs\diffuse.h(37): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\bsdfs\phong.h(71): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\integrators\ao.h(37): warning C4101: 'shadow': unreferenced local variable
+  renderpass.cpp
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\bsdfs\diffuse.h(37): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\bsdfs\phong.h(71): warning C4804: '>': unsafe use of type 'bool' in operation
+  main.cpp
+  Generating Code...
+d:\universite\fall_2018\ecse_446\ecse446assignments\a5_starter\a5\src\integrators\normal.h(25): warning C4700: uninitialized local variable 'info' used
+  tinyrender.vcxproj -> D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a5_starter\a5\bin\Release\tinyrender.exe
+  D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a5_starter\a5\externals\opengl\dll\glew32.dll
+  D:\Universite\Fall_2018\ECSE_446\ECSE446Assignments\a5_starter\a5\externals\opengl\dll\SDL2.dll
+  2 fichier(s) copié(s)
